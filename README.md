@@ -1,4 +1,1 @@
-# Dar-Design
-# Dar-Design
-# Dar-Design
-# Dar-Design
+Ce projet est une plateforme e-commerce dédiée à la vente et à la personnalisation de t-shirts. L'objectif est d'offrir une expérience utilisateur fluide et moderne pour la conception et l'achat de vêtements imprimés
